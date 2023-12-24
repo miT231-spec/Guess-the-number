@@ -32,5 +32,6 @@ int main()
 		}
 	}
 	cout << "you have no more try's left, restart the programm!\n"; // after the loop ends we print this
+	system("pause");
 	return 0;
 }
